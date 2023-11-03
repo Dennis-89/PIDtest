@@ -1,3 +1,7 @@
+Just forke this project to start refectoring the code, to make it easier to explain what the code is doing.
+
+Original Description:
+
 # PIDtest
 
 Note: this was created in one 3 hour session and uploaded to youtube (video link below)
