@@ -3,7 +3,6 @@ import turtle
 import time
 
 
-TIMER = 0
 TIME_STEP = 0.001
 SETPOINT = 10
 SIMULATION_TIME = 10
