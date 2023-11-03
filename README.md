@@ -1,4 +1,4 @@
-Just forke this project to start refectoring the code, to make it easier to explain what the code is doing.
+<h2>Just forke this project to start refectoring the code, to make it easier to explain what the code is doing.</h2>
 
 Original Description:
 
