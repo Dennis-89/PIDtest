@@ -155,9 +155,9 @@ def do_simulation(pid, rocket):
 
         poses.append(rocket.y)
         times.append(time.monotonic() - start_time)
-        kp_values.append(pid.kp)
-        kd_values.append(pid.kd)
-        ki_values.append(pid.ki)
+        kp_values.append(pid.get_kpe())
+        kd_values.append(pid.get_kde())
+        ki_values.append(pid.get_kie())
         thrust_values.append(thrust)
     return times, poses, kp_values, kd_values, ki_values, thrust_values
 
